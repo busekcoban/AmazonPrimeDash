@@ -14,9 +14,7 @@ Also you can reach the project [here](https://busekcoban.pythonanywhere.com/).
 
 Python: The core of the application is developed using the Python programming language.
 
-
 Dash: Dash is a Python-based web framework used to create interactive data visualizations.
-
 
 [Pythonanywhere](https://www.pythonanywhere.com/): The application is hosted on the Pythonanywhere platform to deploy the Dash application online.
 
