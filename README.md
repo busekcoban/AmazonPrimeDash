@@ -12,4 +12,4 @@ The application is built using the Dash framework and configured to deploy the g
 
 Also you can try the project [here](https://busekcoban.pythonanywhere.com/).
 
-Feel free to reach out if you have any questions or inquiries regarding this project.
+Feel free to reach out if you have any questions for the project.
