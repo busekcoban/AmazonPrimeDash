@@ -1,4 +1,4 @@
-# Amazon Prime Series and TV Show Visualization Application
+# Amazon Prime Movies and TV Shows Visualization Application
 
 [Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
