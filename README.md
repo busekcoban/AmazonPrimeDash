@@ -2,7 +2,7 @@
 
 [Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
-This project is a Python application developed to visualize the data of series and TV shows available on the Amazon Prime platform between 1920 and 2021. 
+This project is a Python application developed to visualize the data of movies and TV shows available on the Amazon Prime platform between 1920 and 2021. 
 The application is built using the Dash framework and configured to deploy the generated visual results on a web server using [Pythonanywhere](https://www.pythonanywhere.com/)
 
 - You can filter the movies and tv shows in the dataset according to their type and category.
